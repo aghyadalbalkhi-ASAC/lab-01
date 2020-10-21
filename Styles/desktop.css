@@ -1,0 +1,40 @@
+
+@media screen and (min-width:1200px)
+{
+    body {
+        width: 1200px;
+        margin: 50px auto;
+        padding: 0px;
+    }
+
+
+
+
+    #a {
+        background: linear-gradient(90deg, rgba(26,24,59,1) 0%, rgba(18,18,110,1) 0%, rgba(0,212,255,0.6589986336331408) 84%);
+        color: wheat;
+    }
+
+    #b{
+        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 95%);
+    color: black;
+    }
+
+    #d,#c{
+        background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    }
+
+    .contchild{
+
+        background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('4496312.jpg');
+        background-size: cover;
+        
+    }
+
+    #i{
+   
+        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(250,124,48,1) 95%);
+
+    }
+
+}
